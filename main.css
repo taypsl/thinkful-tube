@@ -1,0 +1,40 @@
+* {
+	font-family: 'Merriweather Sans', sans-serif;
+}
+
+body {
+	margin: 100px;
+}
+
+h1, form, .js-search-results {
+	text-align: center;
+}
+
+.youtube-style {
+	font-family: 'Fjalla One', sans-serif; 
+	color: red;
+}
+
+.thinkfultube-style {
+	font-family: 'Questrial', sans-serif;
+	font-size: 1.1em;
+	color: skyblue;
+}
+
+img {
+	margin: 10px;
+}
+
+button {
+	margin-bottom: 20px;
+	padding: 5px;
+	border-radius: 5px;
+	color: white;
+	font-size: 15px
+}
+
+input {
+	padding: 10px;
+	border: none;
+	background-color: gainsboro;
+}
